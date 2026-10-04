@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artemdiscipline.github.io/manifesto-studio/sitemap.xml
